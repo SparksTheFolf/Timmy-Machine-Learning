@@ -1,7 +1,7 @@
 import sklearn
 from sklearn import tree
 
-print('Machine Learning by Nolant108, MIT Licence Nolan Trapp (c) 2020, github.com/nolant108')
+print('Machine Learning Algorithim by Nolant108, MIT Licence Nolan Trapp (c) 2020, github.com/nolant108')
 
 f11 = float(input("Enter features 1-1 to be predicted: "))
 f12 = float(input("Enter features 1-2 to be predicted: "))
