@@ -54,7 +54,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -65,7 +65,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -76,7 +76,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -87,7 +87,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -98,7 +98,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -109,7 +109,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -120,7 +120,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -131,7 +131,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -142,7 +142,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -153,7 +153,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -164,7 +164,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -175,7 +175,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -186,7 +186,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -197,7 +197,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -208,7 +208,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -219,7 +219,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -230,7 +230,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -241,7 +241,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -252,7 +252,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -263,7 +263,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -274,7 +274,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -285,7 +285,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -296,7 +296,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -307,7 +307,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -318,7 +318,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -329,7 +329,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -340,7 +340,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -351,7 +351,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -362,7 +362,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -373,7 +373,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -384,7 +384,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -395,7 +395,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -406,7 +406,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -417,52 +417,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
 
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(features, labels)
-print('Your predicted value is: ')
-print(clf.predict([[val2, val1]]))
-
-
-print('------------NEW CLASS VALUE INPUT------------')
-
-val1 = float(input("Enter Value1 to be predicted: "))
-val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
-
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(features, labels)
-print('Your predicted value is: ')
-print(clf.predict([[val2, val1]]))
-
-print('------------NEW CLASS VALUE INPUT------------')
-
-val1 = float(input("Enter Value1 to be predicted: "))
-val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
-
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(features, labels)
-print('Your predicted value is: ')
-print(clf.predict([[val2, val1]]))
-
-print('------------NEW CLASS VALUE INPUT------------')
-
-val1 = float(input("Enter Value1 to be predicted: "))
-val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
-
-clf = tree.DecisionTreeClassifier()
-clf = clf.fit(features, labels)
-print('Your predicted value is: ')
-print(clf.predict([[val2, val1]]))
-
-print('------------NEW CLASS VALUE INPUT------------')
-
-val1 = float(input("Enter Value1 to be predicted: "))
-val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -474,7 +429,7 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
@@ -485,7 +440,52 @@ print('------------NEW CLASS VALUE INPUT------------')
 
 val1 = float(input("Enter Value1 to be predicted: "))
 val2 = float(input("Enter Value2 to be predicted: "))
-print('------------------------------------------------------------------')
+
+
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features, labels)
+print('Your predicted value is: ')
+print(clf.predict([[val2, val1]]))
+
+print('------------NEW CLASS VALUE INPUT------------')
+
+val1 = float(input("Enter Value1 to be predicted: "))
+val2 = float(input("Enter Value2 to be predicted: "))
+
+
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features, labels)
+print('Your predicted value is: ')
+print(clf.predict([[val2, val1]]))
+
+print('------------NEW CLASS VALUE INPUT------------')
+
+val1 = float(input("Enter Value1 to be predicted: "))
+val2 = float(input("Enter Value2 to be predicted: "))
+
+
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features, labels)
+print('Your predicted value is: ')
+print(clf.predict([[val2, val1]]))
+
+
+print('------------NEW CLASS VALUE INPUT------------')
+
+val1 = float(input("Enter Value1 to be predicted: "))
+val2 = float(input("Enter Value2 to be predicted: "))
+
+
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features, labels)
+print('Your predicted value is: ')
+print(clf.predict([[val2, val1]]))
+
+print('------------NEW CLASS VALUE INPUT------------')
+
+val1 = float(input("Enter Value1 to be predicted: "))
+val2 = float(input("Enter Value2 to be predicted: "))
+
 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
