@@ -3,6 +3,6 @@ We find out what timmy likes and hates via Machine Learning
 
 Google Excel Sheet: https://docs.google.com/spreadsheets/d/1EOo-3pyhguC3Nf7oONATlpYwwVxXTlpCwgqen7NciCU/edit?usp=sharing
 
-Beginner to Machine Learning: Start.py and start.bat
-Intermediate to Machine Learning: ml.py and ml.bat
-Advanced to Machine Learning: mlown.py and mlown.bat
+Beginner to Machine Learning: Start.py and start.bat\n
+Intermediate to Machine Learning: ml.py and ml.bat\n
+Advanced to Machine Learning: mlown.py and mlown.bat\n
