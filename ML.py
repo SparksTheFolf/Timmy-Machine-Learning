@@ -6,4 +6,4 @@ features = [[1,10],[10,100], [5 ,50 ], [ 10, 60], [10, 70], [6,70], [8,90], [5,1
 labels = ["Hates","Likes", "Hates", "Hates", "Likes", "Likes", "Likes", "Hates"] 
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
-print(clf.predict([[val1, val2]]))
+print(clf.predict([[val2, val1]]))
